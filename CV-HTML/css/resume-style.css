@@ -157,6 +157,7 @@ h3 ~ p {
               url(../images/dbs.jpg) no-repeat fixed;
   background-size: cover;
 }
+.education h3{color:red;}
 p + h3 {
   margin-top: 30px;
 }
